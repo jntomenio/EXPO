@@ -61,11 +61,11 @@ This tool is designed to streamline the documentation process for developers, sa
 
 **Running from the command line:**
 
-[readmeai-cli-demo](https://github.com/eli64s/artifacts/assets/43382407/55b8d1b9-06a7-4b1f-b6a7-aaeccdb27679)
+
 
 **Running directly in your browser:**
 
-[readmeai-streamlit-demo](https://github.com/eli64s/artifacts/assets/43382407/3eb39fcf-c1df-49c6-bb5c-63e141857ae3)
+
 
 ---
 
@@ -79,96 +79,6 @@ This tool is designed to streamline the documentation process for developers, sa
 - **📝 Best Practices:** Ensures clean, professional documentation, adhering to markdown best practices.
 
 Let's take a look at some possible customizations created by readme-ai:
-
-<table>
-  <!-- ROW -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/docs/docs/assets/img/headers/custom-dragon.png" alt="custom-dragon-project-logo" width="700">
-      <br>
-      <code>--image custom --badge-color FF4B4B --badge-style flat-square --header-style classic</code>
-    </td>
-  </tr>
-  <!-- ROW -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/examples/toc/roman-numeral.png" alt="docker-go-readme-example" width="700">
-      <br>
-      <code>--badge-color 00ADD8 --badge-style for-the-badge --header-style modern --toc-style roman</code>
-    </td>
-  </tr>
-  <!-- ROW -->
-  <tr>
-    <td colspan="2" align="center"><br>
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/docs/docs/assets/img/headers/ascii-art.png" alt="ascii-readme-header-style" width="700">
-      <br>
-      <code>--header-style ascii</code>
-    </td>
-  </tr>
-  <!-- ROW -->
-  <tr>
-    <td colspan="2" align="center"><br>
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/docs/docs/assets/img/headers/svg-banner.png" alt="svg-" width="700">
-      <br>
-      <code>--badge-style for-the-badge --header-style svg</code>
-    </td>
-  </tr>
-  <!-- ROW -->
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/refs/heads/main/docs/docs/assets/img/headers/cloud.png" alt="readme-header-with-cloud-logo" width="350">
-      <br>
-      <code>--align left --badge-style flat-square --image cloud</code>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/refs/heads/main/docs/docs/assets/img/headers/gradient.png" alt="readme-header-with-gradient-markdown-logo" width="350">
-      <br>
-      <code>--align left --badge-style flat --image gradient</code>
-    </td>
-  </tr>
-  <!-- ROW -->
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/docs/docs/assets/img/headers/custom-balloon.png" alt="custom-balloon-project-logo" width="350">
-      <br>
-      <code>--badge-style flat --image custom</code>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/docs/docs/assets/img/headers/skill-icons-light.png" alt="readme-header-with-skill-icons-light" width="350">
-      <br>
-      <code>--badge-style skills-light --image grey</code>
-    </td>
-  </tr>
-  <!-- ROW -->
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/docs/docs/assets/img/headers/blue.png" alt="readme-header-with-blue-markdown-logo" width="350">
-      <br>
-      <code>--badge-style flat-square</code>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/docs/docs/assets/img/headers/black.png" alt="readme-header-with-black-readme-logo" width="350">
-      <br>
-      <code>--badge-style flat --image black</code>
-    </td>
-  </tr>
-  <!-- ROW -->
-  <tr>
-    <td colspan="2" align="center"><br>
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/docs/docs/assets/img/headers/compact.png" alt="compact-readme-header" width="700">
-      <br>
-      <code>--image cloud --header-style compact --toc-style fold</code>
-    </td>
-  </tr>
-  <!-- ROW -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/eli64s/readme-ai/refs/heads/main/docs/docs/assets/img/headers/modern-flat-square.png" alt="readme-header-style-modern" width="700">
-      <br>
-      <code>-i custom -bc BA0098 -bs flat-square -hs modern -ts fold</code>
-    </td>
-  </tr>
-</table>
 
 > [!IMPORTANT]
 > See the [Official Documentation][mkdocs] for more information on customization options and best practices.
